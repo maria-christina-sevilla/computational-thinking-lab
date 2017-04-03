@@ -1,0 +1,121 @@
+This is how to describe "How to drive a car out of a garage" in a series of steps:
+
+Instructor note: Get this in sublime text as car_drive.txt.
+
+High Level
+#1 > Drive the car out of the garage.
+
+Medium Level
+#1 > Find my car.
+#2 > Get in the car.
+#3 > Turn the car on.
+#4 > Drive the car away.
+
+Low Level
+#1 > For every car in the garage.
+    #2 > If car is my car, go to #4.
+#3 > Can't find my car. Panic!😱
+#4 > Walk to the car.
+#5 > If the car is unlocked, go to #7.
+#6 > Unlock the car.
+#7 > Open the door.
+#8 > Sit in the driver's seat.
+#9 > Close the door.
+#10 > If Tesla, smile, go to #13.
+#11 > Put the key in the ignition.
+#12 > Turn the key.
+#13 > Buckle up.
+#14 > If today is Friday, Honk two times.
+(etc)
+...
+
+
+-----------Basic examples-----------
+
+1. How do you type your name? 
+High
+Christina
+
+Medium
+type each letter in your name
+
+Low
+type C
+type h
+type r
+type i
+type s
+type t
+type i
+type n
+type a
+
+
+
+
+2. How do you turn on and unlock your iPhone? 
+
+--High (Desired Result/Goal)--
+
+Turn on your iPhone
+Unlock your iPhone
+
+
+---Medium (Parts)---
+Turn on your iPhone
+	- push power button	
+
+Unlock your iPhone
+	- push unlock button
+
+---Low (Process)----
+Turn on your iPhone
+	-push power button
+		-pick up iPhone with your right hand
+		-with your right hand, hold down power button for 3 seconds
+		-until 'slide to power off' toggle screen appears on phone
+		-touch power icon and slide to right
+
+Unlock your iPhone
+	- push unlock button
+		- pick up phone with your left hand
+		-place your index finger on the home button for two seconds
+		-let phone scan your finger print
+		-phone screen will unlock
+
+
+
+How do you make tea? 
+
+----High (Desired Result/Goal)---- 
+	- Make tea
+
+----Medium (Parts)-----
+	-Make tea
+		-boil water
+		-tea in mug
+		-steep  
+		- then drink
+
+----Low (Process)--------
+-Make tea
+		-boil water
+			-pick up electric tea kettle
+			- push button with left thumb to open lid
+			-carry electric tea kettle to sink
+			- fill electric tea kettle with water
+			-place electric kettle on bolier plate
+			-turn on electric kettle
+			-wait for water to boil
+		-tea in mug
+			-select mug from cuppoard
+			-place mug on counter
+			-locate tea bags
+			-select tea
+			-when water is boiled, fill mug with water
+			-add tea bag
+		-steep  
+			-let tea bag steep for five minutes
+		- then drink tea
+
+
